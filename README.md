@@ -1,7 +1,7 @@
 # tele cloud circle
 
+# who's the cloud voip king enterprise version?
 
-
-https://www.avaya.com/en/
-https://www.ringcentral.com/
-https://buygenesis.com/
+[avaya](https://www.avaya.com/en/)
+[ringcentral](https://www.ringcentral.com/)
+[genesis](https://buygenesis.com/)
